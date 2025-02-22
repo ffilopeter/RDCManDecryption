@@ -1,4 +1,4 @@
-# RDCManDecryption
+# RDCMan password decryption
 Remote Desktop Connection Manager - decryption (PUBLIC)
 
 Decrypts both:
