@@ -1,6 +1,6 @@
 #
 # Remote Desktop Connection Manager
-# password encryption/decryption
+# password decryption
 
 $certificateEncryption = $true
 $certificateThumbprint = ""
